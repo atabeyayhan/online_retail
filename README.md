@@ -1,4 +1,4 @@
-# Online Retail Association Rule BasedRecommender System
+# Online Retail Association Rule Based Recommender System
 
 ## Business Problem
 Below are the cart information of 3 different users. Recommend the most suitable products for these cart information using association rules. Product recommendations can be 1 or more. Derive decision rules based on 2010-2011 Germany customers.
